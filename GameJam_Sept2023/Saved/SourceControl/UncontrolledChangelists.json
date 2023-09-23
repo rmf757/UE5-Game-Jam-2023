@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"X:/Git/UE5-Game-Jam-2023/GameJam_Sept2023/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+			]
+		}
+	]
+}
